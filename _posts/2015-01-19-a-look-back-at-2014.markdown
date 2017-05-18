@@ -1,0 +1,69 @@
+---
+layout: post
+title: A Look Back at 2014
+date: 2015-01-19 21:48:44.000000000 -06:00
+---
+Inspired by [Fogus' post](http://blog.fogus.me), I decided to make my own list of some of the things I discovered or accomplished in 2014, in no particular order
+
+<!-- more -->
+
+##Books read
+- [A Guide to the Good Life: The Ancient Art of Stoic Joy](http://www.amazon.com/Guide-Good-Life-Ancient-Stoic/dp/0195374614/ref=sr_1_1?s=books&ie=UTF8&qid=1421587969&sr=1-1&keywords=stoicism) - A great introduction to Stoicism
+- [Getting Real](http://www.amazon.com/gp/product/0578012812/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0578012812&linkCode=as2&tag=dahslo-20&linkId=5AJB2CTPLRBSZJXD) - A book by the founders of 37signals. Great advice on developing and shipping your startup product.
+- [Rework](http://www.amazon.com/gp/product/0307463745/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0307463745&linkCode=as2&tag=dahslo-20&linkId=355STMSOOC63GARN) - Another book by the founders of 37signals. Has similar contents as _Getting Real_, I'd recommend skipping _Getting Real_ and reading this one.
+- [Remote: Office Not Required](http://www.amazon.com/gp/product/0804137501/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0804137501&linkCode=as2&tag=dahslo-20&linkId=BVMVID2T7Z4VAKZW) - The last book yet released by the founders of 37signals. As the title suggests, explains the benefits of and how to work remotely.
+- [Zero to One: Notes on Startups, or How to Build the Future](http://www.amazon.com/gp/product/0804139296/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0804139296&linkCode=as2&tag=dahslo-20&linkId=NJFATBBCEEGJO2H5) - By the cofounder and investor Peter Thiel and his former student Blake Masters. A must read for anyone interested in enterpreneurship and startups.
+- [The Fortune Cookie Principle: The 20 keys to a great brand story and why your business needs one](http://www.amazon.com/Fortune-Cookie-Principle-great-business/dp/1489583947/ref=sr_1_1?s=books&ie=UTF8&qid=1421587891&sr=1-1&keywords=cookie+fortune+principle) - A book with great ideas about PR & marketing, in which the author explains the power of storytelling for a brand or business.
+
+
+##Tech events assisted
+- FIT 2014
+- Space Apps Challenge 2014
+
+##Side projects completed
+- [TwentyOne](http://twentyoneapp.com)
+- [Secret Santa Service](http://secretsantaservicehq.com)
+- [DO Droplet Manager](https://github.com/deivuh/DODropletManager-OSX)
+- [MoodInGT](http://moodingt.davidhsiehlo.com/)
+
+##Languages and frameworks used in projects
+Meteor.js, Processing, Rails, Sinatra, Swift, Objective-C, Python
+
+##MOOCs
+- [Developing Android Apps](https://www.udacity.com/course/ud853)
+- [Social psychology](https://www.coursera.org/course/socialpsychology)
+
+##Podcasts discovered
+- [Stanford Entrepreneurial Thought Leaders](http://ecorner.stanford.edu/podcasts.html)
+- [Hardcore History](http://www.dancarlin.com/hardcore-history-series/)
+
+##Healthy accomplishments
+- First 10k race
+- Total distance ran: 181.1km
+- Most steps in a day: 59,902 - On a trip to Chicago and Indianapolis
+- Switched from Stronglifts 5x5 to Greyskull LP strength program - Got to break my squats plateau.
+
+##Games played
+- Cave Story+
+- Tropico
+- Hearthstone
+- Killing Floor
+
+##Documentaries watched
+- [The Rise and Rise of Bitcoin](http://www.imdb.com/title/tt2821314/?ref_=fn_al_tt_1)
+- [The Internet's Own Boy: The Story of Aaron Swartz](http://www.imdb.com/title/tt3268458/?ref_=fn_al_tt_2)
+- [TPB AFK: The Pirate Bay Away from Keyboard](http://www.imdb.com/title/tt2608732/?ref_=fn_al_tt_2)
+- [Minecraft: The Story of Mojang](http://www.imdb.com/title/tt2087878/?ref_=nv_sr_3)
+
+##Great TV shows discovered
+- [Hannibal](http://www.imdb.com/title/tt2243973/?ref_=fn_al_tt_1)
+- [Sherlock](http://www.imdb.com/title/tt1475582/?ref_=fn_al_tt_1)
+- [House of Cards](http://www.imdb.com/title/tt1856010/?ref_=fn_al_tt_1)
+- [Halt and Catch Fire](http://www.imdb.com/title/tt2543312/?ref_=nv_sr_1)
+- [Silicon Valley](http://www.imdb.com/title/tt2575988/?ref_=fn_al_tt_1)
+- [Six Feet Under](http://www.imdb.com/title/tt0248654/?ref_=nv_sr_1)
+
+##Gunplas built
+- [MG 00 Gundam Seven Sword/G](http://www.hlj.com/product/BAN971075)
+- [MG Nu Gundam Ver. Ka](https://otakusurf.wordpress.com/2013/05/15/review-video-mg-nu-gundam-ver-ka/)
+I don't normally build gunplas, and in fact, these were my first two. But I learned and actually enjoyed the whole process of cutting, sanding, assembling, painting and top coating.
