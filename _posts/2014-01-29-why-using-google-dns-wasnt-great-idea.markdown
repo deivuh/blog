@@ -2,6 +2,7 @@
 layout: post
 title: Why using Google DNS wasn't a great idea
 date: 2014-01-29 18:51:31.000000000 -06:00
+comments: true
 ---
 
 

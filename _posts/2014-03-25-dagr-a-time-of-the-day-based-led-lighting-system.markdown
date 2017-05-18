@@ -2,6 +2,7 @@
 layout: post
 title: 'Dagr: A Time of the Day Based LED Lighting System'
 date: 2014-03-25 01:52:03.000000000 -06:00
+comments: true
 ---
 
 
@@ -14,7 +15,7 @@ That was before I discovered [F.lux](http://justgetflux.com) a software that ada
 
 [F.lux]((http://justgetflux.com)  solves my watching the screen in the dark troubles, but when I needed to do stuff at my desk and not on the screen, all I had was my cool white desk lamp.
 
-##Dagr
+## Dagr ##
 Inspired by F.lux, I decided to make my own light system that changes the color temperature according to the time of the day. 
 
 <!-- more -->
@@ -25,7 +26,7 @@ I cut a strip with 7 LEDs, which was enough to cover a fairly small area just be
 
 ![](/content/images/2015/02/Dagr.jpg)
 
-##Controlling the light
+## Controlling the light ##
 
 The light color temperature can be set automatically according to the current time of your device, manually setting the [color temperature](http://en.wikipedia.org/wiki/Color_temperature) from 1000K to 4000K, or manually setting the individual RGB values from the iOS app.
 
@@ -39,7 +40,7 @@ The temperature to RGB conversion was made based on [Tanner Helland's algorithm]
 
 ![](/content/images/2015/02/DagrAction.jpg)
 
-##Wrapping it up
+## Wrapping it up ##
 
 With the stuff I mentioned and a few wires, you can have your own Dagr, time-of-the -day based lighting at your home or office. 
 
@@ -48,6 +49,6 @@ You can find the complete code of Dagr for both the iOS app and Arduino are at m
 
 Pull requests for functionality, success stories and comments are all welcome :)
 
-###Update: More about sleep quality###
+### Update: More about sleep quality ###
 
 Besides screen / light exposure before bedtime, there are a few other factors caused by technology that may affect our sleep quality. A reader made a research about this and wanted to share with us an interesting [article he wrote that covers this topic.](http://www.thesleepjudge.com/different-ways-technology-affects-sleep-quality/) 

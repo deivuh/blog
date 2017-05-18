@@ -2,6 +2,7 @@
 layout: post
 title: DigitalOcean Droplets Manager for OSX
 date: 2014-04-27 23:55:37.000000000 -06:00
+comments: true
 ---
 
 
@@ -26,5 +27,5 @@ This app works but is still under development, but for those who want to try it 
 
 The source code is at my [Github repository](https://github.com/deivuh/DODropletManager-OSX), for those willing to contribute or just look at it.
 
-###Update
+### Update ###
 There have been quite a few contributions, and thanks to them, the app is growing quite fast :). For .app build releases, please visit [The repository's release section](https://github.com/deivuh/DODropletManager-OSX/releases) to download them.
