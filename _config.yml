@@ -26,7 +26,8 @@ github_username:  deivuh
 
 # Build settings
 markdown: kramdown
-theme: leonids
+#theme: leonids
+theme: minimal
 gems:
   - jekyll-feed
 exclude:
