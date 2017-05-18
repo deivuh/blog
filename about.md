@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm a freelance software developer in Guatemala. I'm passionate about technology, startups, gadgets and creating stuff. I made this blog to share anything I'm currently working on or learned about.
