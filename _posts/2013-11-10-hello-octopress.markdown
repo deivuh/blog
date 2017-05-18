@@ -3,7 +3,6 @@ layout: post
 title: Hello Octopress!
 date: 2013-11-10 22:35:00.000000000 -06:00
 comments: true
-permalink: none
 ---
 
 **Hello Octopress!** 
