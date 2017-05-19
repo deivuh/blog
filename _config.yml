@@ -25,6 +25,9 @@ twitter_username: deivuh
 github_username:  deivuh
 permalink: none
 
+disqus:
+  shortname: deivuh
+
 # Build settings
 markdown: kramdown
 #theme: leonids
