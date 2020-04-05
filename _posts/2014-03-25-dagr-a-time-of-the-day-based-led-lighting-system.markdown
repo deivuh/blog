@@ -52,3 +52,7 @@ Pull requests for functionality, success stories and comments are all welcome :)
 ### Update: More about sleep quality ###
 
 Besides screen / light exposure before bedtime, there are a few other factors caused by technology that may affect our sleep quality. A reader made a research about this and wanted to share with us an interesting [article he wrote that covers this topic.](http://www.thesleepjudge.com/different-ways-technology-affects-sleep-quality/) 
+
+### Update 2: Even more information about sleep quality ###
+
+Another reader made a research about electronics and sleep, and made a [nice infographic about ways it affects our sleep and how to protect against it](https://sleepybliss.com/tips-guides/how-electronics-affect-sleep). 
